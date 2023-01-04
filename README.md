@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aakash Chakravarty</h1>
 <h3 align="center">A lifetime problem solver with a die hard attitude.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash8566&label=Profile%20views&color=0e75b6&style=flat" alt="aakash8566" /> </p>
-<p align="left"> <img width="100%" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" /> </p>
+<p align="left"> <img width="100%" height="500px" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash8566" alt="aakash8566" /></a> </p>
 
