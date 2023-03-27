@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash8566" alt="aakash8566" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aaka8566)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="left"> <a href="https://twitter.com/aakash8566" target="blank"><img src="https://img.shields.io/twitter/follow/aakash8566?logo=twitter&style=for-the-badge" alt="aakash8566" /></a> </p>
 
 - 🔭 I’m currently working on **Lifestyle.com**
