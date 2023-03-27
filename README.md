@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **React Projects**
 
-- 👨‍💻 All of my projects are available at aaka8566.github.io
+- 👨‍💻 All of my projects are available at [aaka8566.github.io]
 
 - 💬 Ask me about **React**
 
